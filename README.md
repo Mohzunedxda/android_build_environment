@@ -1,6 +1,6 @@
 # 
 
-android_build_environment
+# android_build_environment
 
 fresher_guide
 
@@ -14,7 +14,7 @@ apt-get install bison build-essential curl ccache flex lib32ncurses5-dev lib32z1
 
 exit
 
-PART --2
+# PART --2
 
 mkdir ~/bin
 
@@ -32,7 +32,7 @@ cd scripts
 
 bash setup/android_build_env.sh.
 
-PART --3
+# PART --3
 
 mkdir /(romname)
 
